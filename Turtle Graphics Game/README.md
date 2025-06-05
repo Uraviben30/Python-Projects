@@ -29,7 +29,7 @@ A simple and fun racing simulation where each turtle runs at random speed.
 
 - `turtleracinggame.py`: Game script.
 - Screenshots:
-  - 🖼️ `turtleracinggame_1.PNG`
+  - 🖼️ `turtleracinggame_1.PNG`:Turtle Graphics Game/turtleracinggame_1.PNG
   - 🖼️ `turtleracinggame_2.png`
   - - `turtlerandomwalk.mp4`: https://github.com/user-attachments/assets/04c9acc8-409e-4897-a1b2-676a97878a1b
 
