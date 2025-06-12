@@ -59,8 +59,7 @@ This is a simple implementation of the classic **Snake Game** using the **Turtle
 
 
 🎬 Video Demo
-  👉 Click here to watch the gameplay video: 
-  
+ 
   https://github.com/user-attachments/assets/7fa292f7-7b00-4016-a27f-ba759945ad7f
 
 
